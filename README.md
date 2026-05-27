@@ -19,3 +19,6 @@ Each subfolder contains CSV files ready for import into applications or data pro
 - Keep CSVs simple and well-formatted
 - Use clear, descriptive filenames
 - Include headers in the first row when applicable
+
+
+Made an attempt to display if a list is comprehensive or if omissions were made in order to keep the most recognizable entries.
